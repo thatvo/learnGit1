@@ -1,4 +1,8 @@
 Hello tường
 Hello That
+<<<<<<< HEAD
 
 12345
+=======
+Hello lần 3
+>>>>>>> 065fc2d867e34f1f16c373a09596313767e55b71
